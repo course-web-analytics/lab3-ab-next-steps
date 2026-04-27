@@ -1,0 +1,104 @@
+---
+title: "A/B Testing (Next Steps)"
+author: "SMWA 2026"
+date: "2025-05-06"
+output:
+  pdf_document: default
+  html_document: default
+---
+
+## Learning Goals
+
+By the end of this tutorial you will be able to:
+
+1. Formulate a clear and testable A/B test research question.
+2. Compare and contrast different experimental designs (switchback vs. geographic variation).
+3. Justify the choice of an experimental design based on tradeoffs.
+4. Communicate A/B test results clearly to non-technical stakeholders.
+5. Reflect on how quasi-experimental designs might be used when randomization is constrained.
+
+## Instructions to Students
+
+This is a conceptual lab — no coding is required. 
+Please think carefully about each question and write your responses in clear, complete sentences.
+You may discuss with your peers or instructor as needed.
+
+## A/B Testing Case Study: "Weekend Vrij on TikTok"
+
+Nederlandse Spoorwegen (NS) wants to boost sign-ups for their "Weekend Vrij" train discount pass among Dutch young adults (18–30).
+They plan to test two TikTok ads:
+
+- **Ad A**: Focuses on freedom and spontaneity, their current ad  
+- **Ad B**: Focuses on sustainability and savings, their new ad
+
+They are considering **two experimental designs**:
+
+- **Switchback Design**: Alternate the ads on the same TikTok account either **every day** or **every hour**  
+- **Geographic Variation Design**: Show Ad A in Randstad provinces and Ad B in non-Randstad provinces using TikTok's geo-targeting.
+
+## 1. Clarify the Research Question
+
+> a) Write a version of the research question focused on causality.
+
+
+ Write your answer here
+
+
+
+> b) Write a version focused on the managerial objective.
+
+
+Write your answer here
+
+
+
+## Compare the Two Experimental Designs
+
+Fill in the table comparing the Switchback and Geographic Variation designs:
+
+| Dimension                  | Switchback (daily or hourly) | Geographic Variation        |
+|---------------------------|------------------------------|-----------------------------|
+| Internal validity          |                              |                             |
+| External validity          |                              |                             |
+| Spillovers / interference  |                              |                             |
+| Platform constraints       |                              |                             |
+| Ease of implementation     |                              |                             |
+| Data needed                |                              |                             |
+
+
+Write your answer here
+
+
+
+> Which timing would you use in the switchback: daily or hourly?
+
+
+Write your answer here
+
+
+
+## Recommend a Design
+
+> Choose and justify a design (and switch timing if relevant).
+
+
+Write your answer here
+
+
+
+## Pitch Your Result to Stakeholders
+
+> Explain what you found and what NS should do in 2–3 simple sentences.
+
+
+Write your answer here
+
+
+
+## When You Can't Randomize the Randstad
+
+> Suppose TikTok doesn’t allow NS to randomize in the Randstad. How could you still run a valid test?
+
+
+Write your answer here
+
